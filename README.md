@@ -2,10 +2,6 @@
 
 This project uses machine learning models to predict medical insurance charges based on demographic and health-related features such as age, BMI, and smoking status.
 
-##  Project Summary (PDF)
-
- [Click here to view the PDF summary](Predicting Medical Insurance Costs Using Machine Learning.pdf)
-
 ---
 
 ##  Dataset
